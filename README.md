@@ -5,7 +5,9 @@ A lightweight, fully customizable switch component for React Native.
 
 ## Installation 
 ```jsx
-npm install react-native-custom-switch
+npm install https://github.com/zephyr2125/react-native-custom-switch-new
+
+yarn add https://github.com/zephyr2125/react-native-custom-switch-new
 ```
 
 ## Usage
