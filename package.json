@@ -1,5 +1,5 @@
 {
-  "name": "react-native-custom-switch",
+  "name": "react-native-custom-switch-new",
   "version": "1.0.7",
   "description": "A fully customizable switch component for react native.",
   "main": "src/index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arshigtx/react-native-custom-switch.git"
+    "url": "git+https://github.com/zephyr2125/react-native-custom-switch-new"
   },
   "author": "arshigtx",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arshigtx/react-native-custom-switch/issues"
+    "url": "https://github.com/zephyr2125/react-native-custom-switch-new/issues"
   },
-  "homepage": "https://github.com/arshigtx/react-native-custom-switch#readme",
+  "homepage": "https://github.com/zephyr2125/react-native-custom-switch-new#readme",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.68.0"
   }
