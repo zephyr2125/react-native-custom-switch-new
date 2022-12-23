@@ -12,7 +12,7 @@ yarn add https://github.com/zephyr2125/react-native-custom-switch-new
 
 ## Usage
 ```jsx
-import CustomSwitch from 'react-native-custom-switch';
+import CustomSwitch from 'react-native-custom-switch-new';
 <CustomSwitch />
 ```
 
