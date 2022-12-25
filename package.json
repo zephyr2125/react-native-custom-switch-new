@@ -1,6 +1,6 @@
 {
   "name": "react-native-custom-switch-new",
-  "version": "1.0.7",
+  "version": "1.0.2",
   "description": "A fully customizable switch component for react native.",
   "main": "src/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/zephyr2125/react-native-custom-switch-new"
   },
-  "author": "arshigtx",
+  "author": "HuanTH",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zephyr2125/react-native-custom-switch-new/issues"
